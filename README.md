@@ -1,9 +1,9 @@
 
 # Discord Music Bot
-A Discord bot that plays music from YouTube, Spotify, and Apple Music using slash commands.
+A Discord bot that plays music from YouTube using slash commands.
 
 ## Setup
-1. Clone the repository.
+1. Download the .zip file
 2. Install the requirements: `pip install -r requirements.txt`
 3. Create a `.env` file with your credentials:
     ```
