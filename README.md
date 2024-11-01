@@ -20,7 +20,7 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/discord-music-bot.git
+    git clone https://github.com/PgNetwork01/discord-music-bot.git
     cd discord-music-bot
     ```
 
